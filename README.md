@@ -43,5 +43,6 @@ from PIL import Image, ImageTk
 ```python
 from winsound import *
 ```
-
+## Generar ejecutable de esta aplicacion.
+Si la app esta funcionando de forma correcta es posible generar un ejecutable de la misma. Para esto se recomienda [seguir estos pasos](https://datatofish.com/executable-pyinstaller/).
 
